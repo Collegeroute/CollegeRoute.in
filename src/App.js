@@ -38,7 +38,7 @@ function ScrollToSection() {
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename="/CollegeRoute.in">
         <ScrollToSection />
         <FloatingWhatsApp />
         <HeaderTop />
