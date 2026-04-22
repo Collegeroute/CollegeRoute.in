@@ -1,4 +1,4 @@
-import { HashRouter as Router, Routes, Route, useLocation } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route, useLocation } from "react-router-dom";
 import { useEffect } from 'react';
 
 import './App.css';
@@ -38,7 +38,7 @@ function ScrollToSection() {
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <ScrollToSection />
         <FloatingWhatsApp />
         <HeaderTop />

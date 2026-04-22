@@ -74,16 +74,16 @@ const Footer = () => {
                                 <h4 className="widget-title">Quick Link</h4>
                                 <ul>
                                     <li>
-                                        <a href="#/events">Events</a>
+                                        <a href="/#events">Events</a>
                                     </li>
                                     <li>
-                                        <a href="#/internship">Internship</a>
+                                        <a href="/#internship">Internship</a>
                                     </li>
                                     <li>
-                                        <a href="#/testimonial">Testimonials</a>
+                                        <a href="/#testimonial">Testimonials</a>
                                     </li>
                                     <li>
-                                        <a href="#/blog">Blogs</a>
+                                        <a href="/#blog">Blogs</a>
                                     </li>
                                 </ul>
                             </div>
