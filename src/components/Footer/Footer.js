@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import logo2Light from '../../images/2-light.png';
 import logoLight from '../../images/CollegeRouteLogo-light.svg';
 import xIcon from '../../images/x.png';
@@ -57,13 +58,13 @@ const Footer = () => {
                                 <h4 className="widget-title">Pages</h4>
                                 <ul>
                                     <li>
-                                        <a href="/">Home</a>
+                                        <Link to="/">Home</Link>
                                     </li>
                                     <li>
-                                        <a href="/universities">Universities</a>
+                                        <Link to="/universities">Universities</Link>
                                     </li>
                                     <li>
-                                        <a href="/contact">Contact</a>
+                                        <Link to="/contact">Contact</Link>
                                     </li>
                                 </ul>
                             </div>
@@ -73,16 +74,16 @@ const Footer = () => {
                                 <h4 className="widget-title">Quick Link</h4>
                                 <ul>
                                     <li>
-                                        <a href="/#events">Events</a>
+                                        <a href="#/events">Events</a>
                                     </li>
                                     <li>
-                                        <a href="/#internship">Internship</a>
+                                        <a href="#/internship">Internship</a>
                                     </li>
                                     <li>
-                                        <a href="/#testimonial">Testimonials</a>
+                                        <a href="#/testimonial">Testimonials</a>
                                     </li>
                                     <li>
-                                        <a href="/#blog">Blogs</a>
+                                        <a href="#/blog">Blogs</a>
                                     </li>
                                 </ul>
                             </div>

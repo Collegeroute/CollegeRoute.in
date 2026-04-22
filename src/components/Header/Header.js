@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, Link } from 'react-router-dom';
 import collegeLogo from '../../images/CollegeRouteLogo.svg';
 import collegeLogoLight from '../../images/CollegeRouteLogo-light.svg';
 
@@ -43,9 +43,9 @@ const Header = () => {
               >
                 <FontAwesomeIcon icon={faBars} />
               </button>
-              <a className="navbar-brand" href="/">
+              <Link className="navbar-brand" to="/">
                 <img src={collegeLogo} className="logo" alt="College Route Logo" />
-              </a>
+              </Link>
             </div>
             <form className="search-form" onSubmit={handleSearchSubmit}>
               <input
@@ -82,13 +82,13 @@ const Header = () => {
                 data-out="fadeOutUp"
               >
                 <li>
-                  <a href="/">Home</a>
+                  <Link to="/">Home</Link>
                 </li>
                 <li>
-                  <a href="/universities">Universities</a>
+                  <Link to="/universities">Universities</Link>
                 </li>
                 <li>
-                  <a href="/contact">Contact</a>
+                  <Link to="/contact">Contact</Link>
                 </li>
               </ul>
             </div>
