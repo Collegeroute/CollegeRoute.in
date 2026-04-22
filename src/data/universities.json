@@ -1,0 +1,728 @@
+[
+  {
+    "id": "sathyabama-chennai",
+    "name": "Sathyabama Institute of Science and Technology",
+    "city": "Chennai",
+    "country": "india",
+    "rating": 4.7,
+    "ratingCount": "2.7K",
+    "courses": [
+      "engineering",
+      "medical",
+      "arts",
+      "law",
+      "pharmacy",
+      "nursing",
+      "architecture"
+    ],
+    "studyLevel": [
+      "bachelors",
+      "masters",
+      "phd"
+    ],
+    "nirf": 51,
+    "images": [
+      "sathyabama.png",
+      "sathyabama.png",
+      "sathyabama_logo.jpg"
+    ],
+    "price": "₹175000",
+    "feeRange": "1to2l",
+    "url": "/university/sathyabama-chennai",
+    "theRanking": "1201–1500th",
+    "qsRating": 4.2,
+    "website": "https://www.sathyabama.ac.in",
+    "coursesCount": 95,
+    "nextIntake": "July 2026",
+    "type": "Private Deemed University",
+    "faculties": 1400,
+    "students": 17000,
+    "videoPreview": "sathyabama_youtube_preview.webp",
+    "videoUrl": "https://www.youtube.com/watch?v=_mCvw0A8AkQ",
+    "counselors": [
+      {
+        "name": "Harrish",
+        "image": "mentor.jpg",
+        "rating": 5.0,
+        "courses": 12,
+        "studentsMentored": "5k"
+      },
+      {
+        "name": "Dhanush",
+        "image": "m5.jpg",
+        "rating": 4.9,
+        "courses": 25,
+        "studentsMentored": "2k"
+      }
+    ],
+    "overview": "Sathyabama Institute of Science and Technology (SIST), Chennai is a reputed private deemed university established under Section 3 of the UGC Act, 1956, and accredited with NAAC A++ grade. Located on Rajiv Gandhi Salai (OMR), Chennai’s major IT corridor, the university is known for its strong academic programs, research initiatives, and modern infrastructure. It offers undergraduate, postgraduate, and doctoral programs across engineering, science, law, pharmacy, nursing, architecture, and management disciplines with a focus on innovation and industry collaboration.",
+    "visionMission": [
+      "Be a leading multidisciplinary university addressing global challenges",
+      "Achieve excellence in education and research through collaboration",
+      "Foster innovation, entrepreneurship, and research culture",
+      "Create an inclusive and diverse academic environment",
+      "Engage in community development and societal impact"
+    ],
+    "scholarship": "Sathyabama offers scholarships such as the Dr. Jeppiaar Remibai Merit Scholarship, providing tuition fee concessions of 20% to 30% for top-performing students based on academic performance and institutional results.",
+    "coursesDetails": [
+      {
+        "category": "Engineering",
+        "courses": [
+          {
+            "name": "B.E - Computer Science and Engineering",
+            "duration": "4 years"
+          },
+          {
+            "name": "B.E - Electronics and Communication Engineering",
+            "duration": "4 years"
+          },
+          {
+            "name": "B.E - Mechanical Engineering",
+            "duration": "4 years"
+          },
+          {
+            "name": "M.E - Structural Engineering",
+            "duration": "2 years"
+          }
+        ]
+      },
+      {
+        "category": "Architecture",
+        "courses": [
+          {
+            "name": "B.Arch - Architecture",
+            "duration": "5 years"
+          }
+        ]
+      },
+      {
+        "category": "Pharmacy",
+        "courses": [
+          {
+            "name": "B.Pharm - Pharmacy",
+            "duration": "4 years"
+          },
+          {
+            "name": "M.Pharm - Pharmaceutics",
+            "duration": "2 years"
+          }
+        ]
+      },
+      {
+        "category": "Nursing",
+        "courses": [
+          {
+            "name": "B.Sc - Nursing",
+            "duration": "4 years"
+          }
+        ]
+      },
+      {
+        "category": "Law",
+        "courses": [
+          {
+            "name": "BA LLB (Hons)",
+            "duration": "5 years"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the admission process for Sathyabama University?",
+        "answer": "Admission is based on the Sathyabama All India Entrance Examination (SAEEE) and merit for various programs."
+      },
+      {
+        "question": "Does the university provide hostel facilities?",
+        "answer": "Yes, the university provides well-equipped hostel facilities with modern amenities for students."
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Aravind R",
+        "rating": 5,
+        "comment": "Strong academics, good infrastructure, and excellent campus environment."
+      },
+      {
+        "author": "Keerthana S",
+        "rating": 4,
+        "comment": "Good faculty and placements, especially for core engineering branches."
+      }
+    ]
+  },
+  {
+    "id": "vit-chennai",
+    "name": "Vellore Institute of Technology, Chennai",
+    "city": "Chennai",
+    "country": "india",
+    "rating": 5,
+    "ratingCount": "3.5K",
+    "courses": [
+      "engineering",
+      "management",
+      "science",
+      "law"
+    ],
+    "studyLevel": [
+      "bachelors",
+      "masters",
+      "phd"
+    ],
+    "nirf": 11,
+    "images": [
+      "vitchennai.jpg",
+      "vitchennai.jpg",
+      "vitchennai_logo.jpg"
+    ],
+    "price": "₹195000",
+    "feeRange": "2to4l",
+    "url": "/university/vit-chennai",
+    "theRanking": "801–1000th",
+    "qsRating": 4.5,
+    "website": "https://chennai.vit.ac.in",
+    "coursesCount": 75,
+    "nextIntake": "July 2026",
+    "type": "Private Deemed University",
+    "faculties": 800,
+    "students": 10000,
+    "videoPreview": "vitchennai_youtube_preview.webp",
+    "videoUrl": "https://www.youtube.com/watch?v=04X29d9b-Jw",
+    "counselors": [
+      {
+        "name": "Harrish",
+        "image": "mentor.jpg",
+        "rating": 5.0,
+        "courses": 12,
+        "studentsMentored": "5k"
+      },
+      {
+        "name": "Dhanush",
+        "image": "m5.jpg",
+        "rating": 4.9,
+        "courses": 25,
+        "studentsMentored": "2k"
+      }
+    ],
+    "overview": "Vellore Institute of Technology (VIT), Chennai is a premier private deemed university established in 2010 as an extension of VIT Vellore. The Chennai campus is located on the Vandalur–Kelambakkam Road and is known for its strong academic curriculum, modern infrastructure, and industry-oriented programs. VIT is recognized by the University Grants Commission (UGC) and consistently ranks among the top private universities in India. It offers undergraduate, postgraduate, and doctoral programs in engineering, management, science, and law, with a strong focus on research, innovation, and global exposure.",
+    "visionMission": [
+      "Transform life through excellence in education and research",
+      "Provide world-class education aligned with global standards",
+      "Foster innovation, entrepreneurship, and research culture",
+      "Collaborate with industry and international institutions",
+      "Develop socially responsible and skilled professionals"
+    ],
+    "scholarship": "VIT offers scholarships under the GV School Development Programme (GVSDP), where top rank holders in the VITEEE entrance exam receive tuition fee waivers ranging from 25% to 100%. Scholarships are also provided based on academic performance and merit.",
+    "coursesDetails": [
+      {
+        "category": "Engineering",
+        "courses": [
+          {
+            "name": "B.Tech - Computer Science and Engineering",
+            "duration": "4 years"
+          },
+          {
+            "name": "B.Tech - Electronics and Communication Engineering",
+            "duration": "4 years"
+          },
+          {
+            "name": "B.Tech - Mechanical Engineering",
+            "duration": "4 years"
+          },
+          {
+            "name": "M.Tech - Artificial Intelligence",
+            "duration": "2 years"
+          }
+        ]
+      },
+      {
+        "category": "Management",
+        "courses": [
+          {
+            "name": "BBA - Business Administration",
+            "duration": "3 years"
+          },
+          {
+            "name": "MBA - Master of Business Administration",
+            "duration": "2 years"
+          }
+        ]
+      },
+      {
+        "category": "Science",
+        "courses": [
+          {
+            "name": "B.Sc - Data Science",
+            "duration": "3 years"
+          },
+          {
+            "name": "M.Sc - Physics",
+            "duration": "2 years"
+          }
+        ]
+      },
+      {
+        "category": "Law",
+        "courses": [
+          {
+            "name": "BA LLB (Hons)",
+            "duration": "5 years"
+          },
+          {
+            "name": "LLM - Corporate Law",
+            "duration": "1 year"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the admission process for VIT Chennai?",
+        "answer": "Admission to B.Tech programs is based on VITEEE entrance exam, while other programs consider merit and national-level entrance scores."
+      },
+      {
+        "question": "Does VIT Chennai provide hostel facilities?",
+        "answer": "Yes, VIT Chennai offers well-equipped hostel facilities for both boys and girls with modern amenities."
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul Sharma",
+        "rating": 5,
+        "comment": "Excellent infrastructure and strong placement opportunities."
+      },
+      {
+        "author": "Priya Iyer",
+        "rating": 4,
+        "comment": "Great faculty and industry exposure, but academics are quite rigorous."
+      }
+    ]
+  },
+  {
+    "id": "srm-chennai",
+    "name": "SRM Institute of Science and Technology",
+    "city": "Chennai",
+    "country": "india",
+    "rating": 4.8,
+    "ratingCount": "4.1K",
+    "courses": [
+      "engineering",
+      "management",
+      "medical",
+      "science",
+      "law"
+    ],
+    "studyLevel": [
+      "bachelors",
+      "masters",
+      "phd"
+    ],
+    "nirf": 32,
+    "images": [
+      "srmchennai.png",
+      "srmchennai.png",
+      "srmchennai_logo.webp"
+    ],
+    "price": "₹200000",
+    "feeRange": "2to4l",
+    "url": "/university/srm-chennai",
+    "theRanking": "1001–1200th",
+    "qsRating": 4,
+    "website": "https://www.srmist.edu.in",
+    "coursesCount": 120,
+    "nextIntake": "July 2026",
+    "type": "Private Deemed University",
+    "faculties": 3200,
+    "students": 50000,
+    "videoPreview": "srmchennai_youtube_preview.webp",
+    "videoUrl": "https://www.youtube.com/watch?v=3ZmK1qUHzl8",
+    "counselors": [
+      {
+        "name": "Harrish",
+        "image": "mentor.jpg",
+        "rating": 5.0,
+        "courses": 12,
+        "studentsMentored": "5k"
+      },
+      {
+        "name": "Dhanush",
+        "image": "m5.jpg",
+        "rating": 4.9,
+        "courses": 25,
+        "studentsMentored": "2k"
+      }
+    ],
+    "overview": "SRM Institute of Science and Technology (SRMIST), Chennai is one of India’s leading private universities, recognized by the University Grants Commission (UGC) and accredited with NAAC A++ grade. Established in 1985, the university is known for its multidisciplinary programs, strong research ecosystem, and global collaborations. The main campus at Kattankulathur, Chennai, offers state-of-the-art infrastructure, industry-oriented curriculum, and excellent placement opportunities across engineering, medicine, management, law, and science disciplines.",
+    "visionMission": [
+      "Move up through international alliances and collaborative initiatives",
+      "Achieve global excellence in education, research, and innovation",
+      "Create world-class professionals with strong ethical values",
+      "Promote entrepreneurship and industry-driven learning",
+      "Contribute to societal development through knowledge and research"
+    ],
+    "scholarship": "SRMIST offers various scholarships based on SRMJEEE ranks, academic performance, and sports achievements. Tuition fee waivers range from 25% to 100% for top-performing students, along with special scholarships for meritorious and economically disadvantaged students.",
+    "coursesDetails": [
+      {
+        "category": "Engineering",
+        "courses": [
+          {
+            "name": "B.Tech - Computer Science and Engineering",
+            "duration": "4 years"
+          },
+          {
+            "name": "B.Tech - Artificial Intelligence and Data Science",
+            "duration": "4 years"
+          },
+          {
+            "name": "B.Tech - Mechanical Engineering",
+            "duration": "4 years"
+          },
+          {
+            "name": "M.Tech - Robotics and Automation",
+            "duration": "2 years"
+          }
+        ]
+      },
+      {
+        "category": "Management",
+        "courses": [
+          {
+            "name": "BBA - Business Administration",
+            "duration": "3 years"
+          },
+          {
+            "name": "MBA - Master of Business Administration",
+            "duration": "2 years"
+          }
+        ]
+      },
+      {
+        "category": "Medical",
+        "courses": [
+          {
+            "name": "MBBS - Bachelor of Medicine and Surgery",
+            "duration": "5.5 years"
+          },
+          {
+            "name": "MD - General Medicine",
+            "duration": "3 years"
+          }
+        ]
+      },
+      {
+        "category": "Science",
+        "courses": [
+          {
+            "name": "B.Sc - Biotechnology",
+            "duration": "3 years"
+          },
+          {
+            "name": "M.Sc - Chemistry",
+            "duration": "2 years"
+          }
+        ]
+      },
+      {
+        "category": "Law",
+        "courses": [
+          {
+            "name": "BA LLB (Hons)",
+            "duration": "5 years"
+          },
+          {
+            "name": "LLM - Corporate Law",
+            "duration": "1 year"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the admission process for SRMIST?",
+        "answer": "Admission to B.Tech programs is based on SRMJEEE entrance exam, while other programs consider merit and national-level entrance exams."
+      },
+      {
+        "question": "Does SRM provide hostel facilities?",
+        "answer": "Yes, SRM offers extensive hostel facilities with modern amenities for both domestic and international students."
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Arjun Kumar",
+        "rating": 5,
+        "comment": "Excellent campus life, infrastructure, and placement support."
+      },
+      {
+        "author": "Sneha Reddy",
+        "rating": 4,
+        "comment": "Good faculty and exposure, but fee structure is slightly high."
+      }
+    ]
+  },
+  {
+    "id": "hindustan-chennai",
+    "name": "Hindustan Institute of Technology and Science",
+    "city": "Chennai",
+    "country": "india",
+    "rating": 4.5,
+    "ratingCount": "2.3K",
+    "courses": [
+      "engineering",
+      "management",
+      "science",
+      "architecture",
+      "aviation"
+    ],
+    "studyLevel": [
+      "bachelors",
+      "masters",
+      "phd"
+    ],
+    "nirf": null,
+    "images": [
+      "hitschennai.jpg",
+      "hitschennai.jpg",
+      "hitschennai_logo.png"
+    ],
+    "price": "₹180000",
+    "feeRange": "1to2l",
+    "url": "/university/hindustan-chennai",
+    "theRanking": null,
+    "qsRating": 3.8,
+    "website": "https://hindustanuniv.ac.in",
+    "coursesCount": 85,
+    "nextIntake": "July 2026",
+    "type": "Private Deemed University",
+    "faculties": 900,
+    "students": 12000,
+    "videoPreview": "hitschennai_youtube_preview.webp",
+    "videoUrl": "https://www.youtube.com/watch?v=eILrZqXcArk",
+    "counselors": [
+      {
+        "name": "Harrish",
+        "image": "mentor.jpg",
+        "rating": 5.0,
+        "courses": 12,
+        "studentsMentored": "5k"
+      },
+      {
+        "name": "Dhanush",
+        "image": "m5.jpg",
+        "rating": 4.9,
+        "courses": 25,
+        "studentsMentored": "2k"
+      }
+    ],
+    "overview": "Hindustan Institute of Technology and Science (HITS), Chennai is a reputed private deemed-to-be university recognized by the University Grants Commission (UGC) and accredited with NAAC A grade. Established in 1985, the institution is known for its strong academic programs, modern infrastructure, and industry-oriented curriculum. Located in Padur, Chennai, the university offers a wide range of undergraduate, postgraduate, and doctoral programs in engineering, management, science, architecture, and aviation, with a focus on innovation, research, and global exposure.",
+    "visionMission": [
+      "To be a leading institution for academic excellence and research innovation",
+      "To provide high-quality education aligned with global standards",
+      "To foster creativity, entrepreneurship, and leadership among students",
+      "To build strong industry and international collaborations",
+      "To contribute to societal development through knowledge and innovation"
+    ],
+    "scholarship": "Hindustan University offers scholarships based on academic merit, entrance exam performance, and sports achievements. Tuition fee concessions are available for meritorious students along with government-supported scholarship schemes.",
+    "coursesDetails": [
+      {
+        "category": "Engineering",
+        "courses": [
+          {
+            "name": "B.Tech - Computer Science and Engineering",
+            "duration": "4 years"
+          },
+          {
+            "name": "B.Tech - Aeronautical Engineering",
+            "duration": "4 years"
+          },
+          {
+            "name": "B.Tech - Mechanical Engineering",
+            "duration": "4 years"
+          },
+          {
+            "name": "M.Tech - Structural Engineering",
+            "duration": "2 years"
+          }
+        ]
+      },
+      {
+        "category": "Management",
+        "courses": [
+          {
+            "name": "BBA - Business Administration",
+            "duration": "3 years"
+          },
+          {
+            "name": "MBA - Master of Business Administration",
+            "duration": "2 years"
+          }
+        ]
+      },
+      {
+        "category": "Science",
+        "courses": [
+          {
+            "name": "B.Sc - Data Science",
+            "duration": "3 years"
+          },
+          {
+            "name": "M.Sc - Physics",
+            "duration": "2 years"
+          }
+        ]
+      },
+      {
+        "category": "Architecture",
+        "courses": [
+          {
+            "name": "B.Arch - Architecture",
+            "duration": "5 years"
+          }
+        ]
+      },
+      {
+        "category": "Aviation",
+        "courses": [
+          {
+            "name": "B.Sc - Aviation",
+            "duration": "3 years"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the admission process for Hindustan University?",
+        "answer": "Admission is based on merit and entrance exams such as HITSEEE for engineering programs, along with other national-level entrance tests."
+      },
+      {
+        "question": "Does Hindustan University provide hostel facilities?",
+        "answer": "Yes, the university provides well-equipped hostel facilities for students with modern amenities."
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Vignesh Kumar",
+        "rating": 5,
+        "comment": "Strong programs in aeronautical engineering and good campus infrastructure."
+      },
+      {
+        "author": "Meera N",
+        "rating": 4,
+        "comment": "Good faculty and exposure, especially in aviation-related courses."
+      }
+    ]
+  },
+  {
+    "id": "dsce-coimbatore",
+    "name": "Dhanalakshmi Srinivasan College of Engineering",
+    "city": "Coimbatore",
+    "country": "india",
+    "rating": 4.2,
+    "ratingCount": "900",
+    "courses": [
+      "engineering",
+      "management"
+    ],
+    "studyLevel": [
+      "bachelors",
+      "masters"
+    ],
+    "nirf": null,
+    "images": [
+      "dscecoimbatore.jpg",
+      "dscecoimbatore.jpg",
+      "dscecoimbatore_logo.jpg"
+    ],
+    "price": "₹85000",
+    "feeRange": "below1l",
+    "url": "/university/dsce-coimbatore",
+    "theRanking": null,
+    "qsRating": 3.2,
+    "website": "https://dsce.ac.in",
+    "coursesCount": 18,
+    "nextIntake": "July 2026",
+    "type": "Private (Anna University Affiliated)",
+    "faculties": 180,
+    "students": 3500,
+    "videoPreview": "dscecoimbatore_youtube_preview.webp",
+    "videoUrl": "https://www.youtube.com/watch?v=fZGCBuZPdto",
+    "counselors": [
+      {
+        "name": "Harrish",
+        "image": "mentor.jpg",
+        "rating": 5.0,
+        "courses": 12,
+        "studentsMentored": "5k"
+      },
+      {
+        "name": "Dhanush",
+        "image": "m5.jpg",
+        "rating": 4.9,
+        "courses": 25,
+        "studentsMentored": "2k"
+      }
+    ],
+    "overview": "Dhanalakshmi Srinivasan College of Engineering (DSCE), Coimbatore is a private engineering institution affiliated with Anna University and approved by AICTE. The college focuses on delivering quality technical education with emphasis on practical skills, industry exposure, and student development. Located in Coimbatore, a prominent educational and industrial hub in Tamil Nadu, DSCE offers undergraduate and postgraduate programs in engineering and management disciplines.",
+    "visionMission": [
+      "To impart quality technical education with strong ethical values",
+      "To develop industry-ready graduates through practical learning",
+      "To promote innovation and research among students",
+      "To enhance employability through skill development programs",
+      "To contribute to society through technical excellence"
+    ],
+    "scholarship": "The college supports students through government scholarships, merit-based concessions, and financial assistance schemes for eligible candidates as per Tamil Nadu and central government norms.",
+    "coursesDetails": [
+      {
+        "category": "Engineering",
+        "courses": [
+          {
+            "name": "B.E - Computer Science and Engineering",
+            "duration": "4 years"
+          },
+          {
+            "name": "B.E - Electronics and Communication Engineering",
+            "duration": "4 years"
+          },
+          {
+            "name": "B.E - Mechanical Engineering",
+            "duration": "4 years"
+          },
+          {
+            "name": "M.E - Engineering Design",
+            "duration": "2 years"
+          }
+        ]
+      },
+      {
+        "category": "Management",
+        "courses": [
+          {
+            "name": "MBA - Master of Business Administration",
+            "duration": "2 years"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the admission process for DSCE Coimbatore?",
+        "answer": "Admission to undergraduate engineering programs is through Tamil Nadu Engineering Admissions (TNEA) counseling, while postgraduate programs are based on merit and entrance exams."
+      },
+      {
+        "question": "Does the college provide hostel facilities?",
+        "answer": "Yes, the college offers hostel facilities with basic amenities for students."
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Suresh K",
+        "rating": 4,
+        "comment": "Affordable college with decent academic support and facilities."
+      },
+      {
+        "author": "Divya P",
+        "rating": 4,
+        "comment": "Good environment for learning with supportive faculty."
+      }
+    ]
+  }
+]
