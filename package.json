@@ -2,7 +2,7 @@
   "name": "collegeroute",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://collegeroute.github.io",
+  "homepage": "https://collegeroute.in",
   "dependencies": {
     "@formspree/react": "^3.0.0",
     "@fortawesome/fontawesome-free": "^7.1.0",
